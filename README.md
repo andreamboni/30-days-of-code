@@ -5,7 +5,7 @@ O meu objetivo com esse desafio é rever alguns conceitos básicos de Java enqua
 |Dia|Status|
 |---|------|
 |1  |Feito |
-|2  ||
+|2  |Feito |
 |3  ||
 |4  ||
 |5  ||
