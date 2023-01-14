@@ -4,6 +4,7 @@ O meu objetivo com esse desafio é rever alguns conceitos básicos de Java enqua
 
 |Dia|Status|
 |---|------|
+|0  |Feito |
 |1  |Feito |
 |2  |Feito |
 |3  ||
@@ -33,5 +34,4 @@ O meu objetivo com esse desafio é rever alguns conceitos básicos de Java enqua
 |27 ||
 |28 ||
 |29 ||
-|30 ||
 
