@@ -8,7 +8,7 @@ O meu objetivo com esse desafio é rever alguns conceitos básicos de Java enqua
 |1  |Feito |
 |2  |Feito |
 |3  |Feito |
-|4  ||
+|4  |Feito |
 |5  ||
 |6  ||
 |7  ||
