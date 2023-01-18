@@ -10,7 +10,7 @@ O meu objetivo com esse desafio é rever alguns conceitos básicos de Java enqua
 |3  |Feito |
 |4  |Feito |
 |5  |Feito |
-|6  ||
+|6  |Feito |
 |7  ||
 |8  ||
 |9  ||
