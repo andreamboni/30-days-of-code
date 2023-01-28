@@ -1,4 +1,4 @@
-import java.util.*;
+iimport java.util.*;
 import java.io.*;
 
 //Write your code here
@@ -8,6 +8,10 @@ class Calculator {
         
         if(n < 0 || p < 0) {
             throw new RuntimeException("n and p should be non-negative");
+        }
+        
+        if(p == 0) {
+            return 1;
         }
         
         int total = n; 
