@@ -22,7 +22,7 @@ O meu objetivo com esse desafio é rever alguns conceitos básicos de Java enqua
 |15 |Feito |
 |16 |Feito |
 |17 |Feito |
-|18 ||
+|18 |Feito |
 |19 ||
 |20 ||
 |21 ||
