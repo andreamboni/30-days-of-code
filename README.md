@@ -25,13 +25,13 @@ O meu objetivo com esse desafio é rever alguns conceitos básicos de Java enqua
 |18 |Feito |
 |19 |Feito |
 |20 |Feito |
-|21 ||
-|22 ||
-|23 ||
-|24 ||
-|25 ||
-|26 ||
-|27 ||
-|28 ||
-|29 ||
+|21 |Feito |
+|22 |Feito |
+|23 |Feito |
+|24 |Feito |
+|25 |Feito |
+|26 |Feito |
+|27 |Feito |
+|28 |Feito |
+|29 |Feito |
 
